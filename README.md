@@ -13,6 +13,14 @@ ALGORITHM-
 7)Then we will can start coding without a problem in the VS code.
 8)Stop
 
+CODE-1)HELLO WORLD
+#include <iostream>
+
+int main() {
+    std::cout << "Hello World!";
+    return 0;
+}
+
 PERFORMANCE/HANDS ON:- Video to download VS code
 ![image](https://github.com/user-attachments/assets/64f14005-8064-4cbd-ac6c-ff77c3aad106)
 
