@@ -9,7 +9,7 @@ ALGORITHM-
 
 2)Open your web browser, go to the visual studio code website.
 
-3) We will download VS code in window  in the website.
+3)We will download VS code in window  in the website.
    
 4)We have installed the VS code. We will start coding.
 
