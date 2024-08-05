@@ -10,5 +10,6 @@ ALGORITHM-
 6)Now we will download a MinGW to run the code in C++.
 7)Then we will can start coding without a problem in the VS code.
 8)Stop
-
+PERFORMANCE/HANDS ON:- Video to download VS code
+![image](https://github.com/user-attachments/assets/64f14005-8064-4cbd-ac6c-ff77c3aad106)
 CONCLUSION- We will learn how to download and run few codes in the Visual Studio code in C++.
