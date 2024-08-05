@@ -4,6 +4,7 @@ AIM- To installing visual studio code and performing few coding in C++
 THEORY- Visual Studio Code, also commonly referred to as VS Code, is a source-code editor developed by Microsoft for Windows, Linux, macOS and web browsers. Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
 ALGORITHM- 
+
 1)Start
 
 2)Open your web browser, go to the visual studio code website.
