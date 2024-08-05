@@ -1,6 +1,8 @@
                       EXPERIMENT 1
 AIM- To installing visual studio code and performing few coding in C++
+
 THEORY- Visual Studio Code, also commonly referred to as VS Code, is a source-code editor developed by Microsoft for Windows, Linux, macOS and web browsers. Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.
+
 ALGORITHM- 
 1)Start
 2)Open your web browser, go to the visual studio code website.
@@ -10,6 +12,8 @@ ALGORITHM-
 6)Now we will download a MinGW to run the code in C++.
 7)Then we will can start coding without a problem in the VS code.
 8)Stop
+
 PERFORMANCE/HANDS ON:- Video to download VS code
 ![image](https://github.com/user-attachments/assets/64f14005-8064-4cbd-ac6c-ff77c3aad106)
+
 CONCLUSION- We will learn how to download and run few codes in the Visual Studio code in C++.
