@@ -23,6 +23,7 @@ ALGORITHM-
 
 
 PERFORMANCE/HANDS ON:- Video to download VS code
-![image](https://github.com/user-attachments/assets/64f14005-8064-4cbd-ac6c-ff77c3aad106)
+![image](https://github.com/user-attachments/assets/5bbbb051-1941-41df-a91e-0e874d2ce314)
+
 
 CONCLUSION- We will learn how to download and run few codes in the Visual Studio code in C++.
