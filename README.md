@@ -29,7 +29,6 @@ Code:-
 1)Hello world
 
 #include <iostream>
-
 int main() {
 
     std::cout << "Hello World!";
