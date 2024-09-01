@@ -26,9 +26,8 @@ PERFORMANCE/HANDS ON:- Video to download VS code
 ![image](https://github.com/user-attachments/assets/5bbbb051-1941-41df-a91e-0e874d2ce314)
 
 Code:-
+Hello world
 ```
-1)Hello world
-
 #include <iostream>
 
 int main() {
@@ -36,8 +35,9 @@ int main() {
     return 0;
 }
 ```
+Average
 ```
-2)#include <iostream>
+#include <iostream>
 using namespace std;
 
 int main()
@@ -68,8 +68,9 @@ int main()
     return 0;
 }
 ```
+sum
 ```
-3)#include <iostream>
+#include <iostream>
 using namespace std;
 
 int main() {
