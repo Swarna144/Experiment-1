@@ -26,7 +26,7 @@ PERFORMANCE/HANDS ON:- Video to download VS code
 ![image](https://github.com/user-attachments/assets/5bbbb051-1941-41df-a91e-0e874d2ce314)
 
 Code:-
-'''
+```
 1)Hello world
 
 #include <iostream>
@@ -35,6 +35,7 @@ int main() {
     std::cout << "Hello World!";
     return 0;
 }
+```
 
 OUTPUT:-
 ![image](https://github.com/user-attachments/assets/e0d7afa9-4576-4d46-8cb4-7541a1ce8617)
