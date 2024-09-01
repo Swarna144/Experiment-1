@@ -35,7 +35,7 @@ int main() {
     return 0;
 }
 
-OUTPUT:-
+#OUTPUT:-
 ![image](https://github.com/user-attachments/assets/e0d7afa9-4576-4d46-8cb4-7541a1ce8617)
 
 2)
