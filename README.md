@@ -68,6 +68,26 @@ int main()
     return 0;
 }
 ```
+```
+3)#include <iostream>
+using namespace std;
+
+int main() {
+
+  int first_number, second_number, sum;
+    
+  cout << "Enter two integers: ";
+  cin >> first_number >> second_number;
+
+  // sum of two numbers in stored in variable sumOfTwoNumbers
+  sum = first_number + second_number;
+
+  // prints sum 
+  cout << first_number << " + " <<  second_number << " = " << sum;     
+
+  return 0;
+}
+```
 
 OUTPUT:-
 ![image](https://github.com/user-attachments/assets/e0d7afa9-4576-4d46-8cb4-7541a1ce8617)
