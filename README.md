@@ -144,22 +144,24 @@ int main() {
 
 OUTPUT:-
 Hello world
+
 ![image](https://github.com/user-attachments/assets/e0d7afa9-4576-4d46-8cb4-7541a1ce8617)
 
 Average
+
 ![Average JPG](https://github.com/user-attachments/assets/6dd48240-9a91-4dc4-b692-80ebd22ac3f3)
 
 Sum
+
 ![sum JPG](https://github.com/user-attachments/assets/bd47d210-1fe2-4a16-93c8-49e81d8e8293)
 
 ODD/EVEN
+
 ![odd JPG](https://github.com/user-attachments/assets/b913f125-bdb6-4389-8513-d7b9a4883074)
 
 LEAP YEAR
+
 ![leap year JPG](https://github.com/user-attachments/assets/4ce0c974-6435-4a95-8ca2-3bea2f8645cc)
-
-
-
 
 
 CONCLUSION- We will learn how to download and run few codes in the Visual Studio code in C++.
